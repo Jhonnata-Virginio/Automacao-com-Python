@@ -1,6 +1,6 @@
 # Automacao-com-Python
 
-**This project was developed at Intensivão de Python carried out by [*Hashtag Progamação*](https://www.youtube.com/@HashtagProgramacao). The idea of ​​this project was to show how we can automate repetitive tasks using Python. We also saw how to use the pyautogui library to help us with this or other automations;**
+**This project was developed at Intensivão de Python carried out by [*Hashtag Programação*](https://www.youtube.com/@HashtagProgramacao). The idea of ​​this project was to show how we can automate repetitive tasks using Python. We also saw how to use the pyautogui library to help us with this or other automations;**
 
 **💻 Project Topics:**
 - Understanding the problem;
